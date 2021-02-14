@@ -1,4 +1,4 @@
-# HTMLs Error Dectection Dashboard 
+# HTMLs/eBooks Error Dectector
 
 Project Overview:
 - The core function of this Windows based App. is to automatically scrap structured and unstructured data from Epubs (Zipped HTMLs), then identify quality issues and transform them into error report in excel spreasheet.
