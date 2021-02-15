@@ -1,4 +1,4 @@
-# [Proejct 1: HTML-Based eBook Error Analysis](https://github.com/wenhsian41/portfolio_kindle_1)
+# [Proejct 1: HTML-Based eBook Error Analysis Automation](https://github.com/wenhsian41/portfolio_kindle_1)
 
 Purpose of the Project:
 - Process Automation: users are able to capture more errors and save mannual works.
